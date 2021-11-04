@@ -1,4 +1,4 @@
-<img align="right" height="390em" src="https://api.daily.dev/devcards/ba0f748378694631a08f0069d77d3e43.png?r=um5"/>
+<img align="right" height="300em" src="https://api.daily.dev/devcards/ba0f748378694631a08f0069d77d3e43.png?r=um5"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo</h1>
 
 - 🔥 Backend Node.js Developer
