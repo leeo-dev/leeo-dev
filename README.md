@@ -2,7 +2,7 @@
 
 <img align="right" height="590em" src="https://api.daily.dev/devcards/ba0f748378694631a08f0069d77d3e43.png?r=um5"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leeodesign&color=green" alt="Profile views" /> </p>
 
 <!--
 **leeodesign/leeodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
