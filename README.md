@@ -37,3 +37,7 @@
  <img align="center" src="https://img.shields.io/badge/-LeeoDev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<p>
+More Info / Contact: https://leeo-dev.github.io/leeo-dev/
+</p>
