@@ -4,6 +4,7 @@
 - 🔥 Backend Node.js Developer
 - 👨 27 years
 - 🤓 I'm a curious person, passionate about learning, especially about how things work.
+- Design Lover
 
 <br><br>
 
